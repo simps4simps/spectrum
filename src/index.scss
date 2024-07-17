@@ -1,0 +1,13 @@
+@import "./global.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  background-color: $primary;
+  color: $text;
+  font-family: sans-serif;
+}
